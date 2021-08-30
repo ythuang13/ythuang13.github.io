@@ -1,6 +1,5 @@
 h1 {
     color:red;
-    background-color:blue;
     font-family: 'ZCOOL KuaiLe', cursive;
 }
 
@@ -13,4 +12,11 @@ h1 {
 p {
     font-size: 15px;
     color:darkred;
+}
+
+#helloBox {
+    text-align: center;
+    background: dodgerblue;
+    height:80px;
+    display: inline-block;
 }
