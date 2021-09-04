@@ -1,6 +1,7 @@
 .center {
     text-align:center;
     margin: 5px auto 5px auto;
+    padding: 0px auto 0px auto;
 }
 
 h1 {
@@ -17,10 +18,4 @@ h1 {
 p {
     font-size: 15px;
     color:darkred;
-}
-
-#helloBox {
-    text-align: center;
-    height:80px;
-    margin: inherit;
 }
