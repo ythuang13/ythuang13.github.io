@@ -1,3 +1,8 @@
+.center {
+    text-align:center;
+    margin: 5px auto 5px auto;
+}
+
 h1 {
     color:red;
     font-family: 'ZCOOL KuaiLe', cursive;
@@ -16,7 +21,6 @@ p {
 
 #helloBox {
     text-align: center;
-    background: dodgerblue;
     height:80px;
-    display: inline-block;
+    margin: inherit;
 }

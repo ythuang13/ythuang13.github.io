@@ -3,4 +3,3 @@ function setTitle() {
 }
 
 window.onload = setTitle;
-alert("You hate this pop up")
