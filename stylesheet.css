@@ -1,21 +1,9 @@
-.center {
-    text-align:center;
-    margin: 5px auto 5px auto;
-    padding: 0px auto 0px auto;
+body {
+    background-color: #f0e5d0;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
-h1 {
-    color:red;
-    font-family: 'ZCOOL KuaiLe', cursive;
-}
-
-#dummyPar {
-    font-size: 30px;
+.dummy {
+    font-size: 20px;
     color:green;
-    font-family: 'ZCOOL KuaiLe', cursive;
-}
-
-p {
-    font-size: 15px;
-    color:darkred;
 }
