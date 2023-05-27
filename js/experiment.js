@@ -1,3 +1,5 @@
 window.addEventListener('DOMContentLoaded', event => {
-    alert("sup");
+    // When page loaded
 });
+
+//Experiment 1
