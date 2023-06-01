@@ -44,18 +44,20 @@
       <section class="resume-section" id="experiment1">
         <div class="resume-section-content">
           <p>Discord Webhook Experiment</p>
-          <div>
-            <label for="pass">Password:</label>
-            <br>
-            <input type="password" id="pass" name="password" required>
-          </div>
-          <div>
-            <label for="discord">Message:</label>
-            <br>
-            <textarea id="discord" name="submit discord" rows="4" cols="40"></textarea>
-          </div>
-          <input type="submit" value="Send to Discord">
+          <form id="discord-form">
+            <div>
+              <label for="discord-password">Password:</label>
+              <br>
+              <input type="password" id="discord-password" name="password" required>
+            </div>
+            <div>
+              <label for="discord">Message:</label>
+              <br>
+              <textarea id="discord-message" name="submit discord" rows="4" cols="40"></textarea>
+            </div>
+            <input id="discord-submit" type="submit" value="Send to Discord">
         </div>
+        </form>
       </section>
       <hr class="m-0" />
     </div>
