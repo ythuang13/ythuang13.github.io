@@ -29,7 +29,10 @@ var lines = [
     "almost kill everyone while driving",
     "shit on blizzard",
     "shit on overwatch",
-    "being tired/busy"
+    "being tired/busy",
+    "dice",
+    "dnd"
+    
     
 ];
 
