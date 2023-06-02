@@ -2,7 +2,7 @@
 
 var lines = [
     "snap",
-    "snap then finger gun",
+    "obscure ryan meme",
     "forget something is called",
     "fucking WTF",
     "babagaboosh",
@@ -33,7 +33,10 @@ var lines = [
     "dice",
     "dnd",
     "loud when excite",
-    "final fantasy"
+    "final fantasy",
+    "laugh and lean",
+    "fries tax",
+    
     
     
 ];
