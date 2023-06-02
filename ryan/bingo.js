@@ -31,7 +31,9 @@ var lines = [
     "shit on overwatch",
     "being tired/busy",
     "dice",
-    "dnd"
+    "dnd",
+    "loud when excite",
+    "final fantasy"
     
     
 ];
