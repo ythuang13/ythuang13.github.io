@@ -2,7 +2,7 @@
 
 var lines = [
     "snap",
-    "snap then finger gun",
+    "obscure ryan meme",
     "forget something is called",
     "fucking WTF",
     "babagaboosh",
@@ -29,7 +29,15 @@ var lines = [
     "almost kill everyone while driving",
     "shit on blizzard",
     "shit on overwatch",
-    "being tired/busy"
+    "being tired/busy",
+    "dice",
+    "dnd",
+    "loud when excite",
+    "final fantasy",
+    "laugh and lean",
+    "fries tax",
+    "spongebob reference"
+    
     
 ];
 
