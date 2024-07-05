@@ -37,8 +37,6 @@ var lines = [
     "laugh and lean",
     "fries tax",
     "spongebob reference"
-    
-    
 ];
 
 // Fisher-Yates Shuffle
