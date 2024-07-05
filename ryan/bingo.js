@@ -11,7 +11,7 @@ var lines = [
     "laugh uncontrollably",
     "uses ryan gadget",
     "therapy",
-    "talk about volunteer",
+    "talk about work",
     "free epic games",
     "show a specific youtube video",
     "sharing braincell with someone",
